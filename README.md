@@ -10,7 +10,7 @@ Why it was modified?
 - just for me to learn React. I thought I could share this on Github and someone might find it useful.
 
 if you want to see the project:
-<video src="showcase.mp4"></video>
+<video src="showcase.mp4" controls></video>
 
 
 ### Getting Started with Create React App
