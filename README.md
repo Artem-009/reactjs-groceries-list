@@ -10,7 +10,7 @@ Why it was modified?
 - just for me to learn React. I thought I could share this on Github and someone might find it useful.
 
 if you want to see the project:
-![video is loading or failed to load"](showcase.mp4)
+![](showcase.gif)
 
 
 ### Getting Started with Create React App
